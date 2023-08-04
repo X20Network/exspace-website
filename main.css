@@ -134,6 +134,7 @@ body {
   font-weight: bold;
   color: rgba(47,74,91,1);
   font-family: 'Rajdhani', sans-serif;
+  text-align: center;
 }
 
 .hero3 ul li img {
@@ -351,6 +352,8 @@ body {
 
   .spacer {
     margin-top: 1.5rem;
+    height: 2px;
+    width: 25%;
   }
 
   .hero2 .logo {
@@ -365,5 +368,11 @@ body {
 
   .person {
     margin-bottom: 2rem;
+    width: auto;
+  }
+
+  .person img {
+    width: 150px;
+    height: 150px;
   }
 }
